@@ -1,10 +1,6 @@
 # 🏆 技术认证
 
-
-
 ## Javascript 高级认证
-
-
 
 - 颁发机构：Certificates.dev
 
@@ -12,15 +8,9 @@
 
 - 获得时间：2025/10/29
 
-  
-
-![JavScript_page-0001](/Users/dongkaiqi/Desktop/认证/JavScript/JavScript_page-0001.jpg)
-
-
+![JavScript](./certifactes/JS.png)
 
 ## Vue 高级认证
-
-
 
 - 颁发机构：Certificates.dev
 
@@ -28,15 +18,9 @@
 
 - 获得时间：2025/09/20
 
-  
-
-  ![image-20251104114343110](/Users/dongkaiqi/Library/Application Support/typora-user-images/image-20251104114343110.png)
-
-
+  ![Vue](./certifactes/Vue.png)
 
 ## React 中级认证 （备考高级中...）
-
-
 
 - 颁发机构：Certificates.dev
 
@@ -44,6 +28,4 @@
 
 - 获得时间：2025/09/17
 
-  
-
-![image-20251104114429219](/Users/dongkaiqi/Library/Application Support/typora-user-images/image-20251104114429219.png)
+![React](./certifactes/React.png)
